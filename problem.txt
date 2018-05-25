@@ -1,0 +1,2 @@
+As it was found out , it was not possible to obtain analytical solutions in the form of algebraic expressions for the three body or the n-body problem thus these problems could only be tackled through a numerical analysis.
+The problem hence put forward is knowing the initial parameters of three heavenly bodies namely their masses, velocities, initial positions can we compute their trajectories and somehow visualize or display them as they traverse on these paths.

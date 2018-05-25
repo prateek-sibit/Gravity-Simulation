@@ -1,0 +1,8 @@
+?	Creating stellar objects with parameters mass, initial velocity, position
+?	Simulating the gravitational force
+?	Considering the mutual interactions of the objects
+?	Constantly computing and updating their trajectories
+?	Implementing trajectory calculations through vector methods
+?	Texturing and displaying planets in 3D Format
+?	Incorporating trajectories into VPython module for 3D Simulation
+?	Constructing real-time energy plots for a two body earth-sun system.
