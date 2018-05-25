@@ -44,5 +44,8 @@ Learnings and Reflections :
 >	Plotting graphs in python
 >	Overall this project was an eye-opener and a great learning experience as it challenged me to venture into domains unexplored by me. Had it not been for this project I would have probably not explored a new domain of python ie : VPython (Visual python) which allows us to create three dimensional intractable objects.
 
+HOW TO USE
 
+1. Run the Gravity_Simulation_Project.py file
+2. Follow along the main menu for controls and how to view the simulation
 
