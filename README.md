@@ -1,6 +1,8 @@
 # Gravity-Simulation
 
-'''The three body problem is a mechanics problem of taking an initial set of data that specifies the positions, velocities and masses of three bodies for some specific points in space and time and then determining and studying the trajectories of those bodies ,in accordance with newton’s laws of motion (classical mechanics) The three body problem is essential nothing but a special case of the n-body problem. Historically it is seen that the first 3 body problem to have undergone an extensive study was that of the Earth Sun and the moon. In 1883 two mathematicians namely Heinrich Bruns and Henri Poincare showed that there exissts no general analytical solution for the three-body problem given by an algebraic expression or integrals.'''
+'''
+The three body problem is a mechanics problem of taking an initial set of data that specifies the positions, velocities and masses of three bodies for some specific points in space and time and then determining and studying the trajectories of those bodies ,in accordance with newton’s laws of motion (classical mechanics) The three body problem is essential nothing but a special case of the n-body problem. Historically it is seen that the first 3 body problem to have undergone an extensive study was that of the Earth Sun and the moon. In 1883 two mathematicians namely Heinrich Bruns and Henri Poincare showed that there exissts no general analytical solution for the three-body problem given by an algebraic expression or integrals.
+'''
 
 ## Problem Statement :
 
@@ -37,13 +39,13 @@ Merely this thought that even the greatest minds of physics could not come up wi
 
 ## Learnings and Reflections :
 
->	To actually solve a problem numerically that was considered not solvable analytically by the great minds of physics is a great feeling in itself
->	How to implement vectors in python 
->	Calculating planetary trajectories using loops
->	Visualizing how gravity works
->	Incorporating 3D models into a python program and operating on them
->	Plotting graphs in python
->	Overall this project was an eye-opener and a great learning experience as it challenged me to venture into domains unexplored by me. Had it not been for this project I would have probably not explored a new domain of python ie : VPython (Visual python) which allows us to create three dimensional intractable objects.
+-	To actually solve a problem numerically that was considered not solvable analytically by the great minds of physics is a great feeling in itself
+-	How to implement vectors in python 
+-	Calculating planetary trajectories using loops
+-	Visualizing how gravity works
+-	Incorporating 3D models into a python program and operating on them
+-	Plotting graphs in python
+-	Overall this project was an eye-opener and a great learning experience as it challenged me to venture into domains unexplored by me. Had it not been for this project I would have probably not explored a new domain of python ie : VPython (Visual python) which allows us to create three dimensional intractable objects.
 
 ## HOW TO USE
 
